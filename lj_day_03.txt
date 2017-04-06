@@ -1,3 +1,7 @@
 LJ_day_3
 
 Hello! This is day 3
+
+Today was good. I am glad I finally got a grasp on branches, as well as seeing what is so great about GitHub's pull feature! I have to say I spent maybe two hours on the CSS portion of the lab, in retrospect that wasn't a great idea... lol i remember you talking about the sixth and second loop question in class thinking that both would be really easy... at least with number seven I got super confused... by the time I asked you I probably needed to take a break, as I seemed to make pretty mindless mistakes.
+
+It's amazing how a portion of code can be right but the way it is written causes other problems.... yikes. All in all a surprisingly rough day with for loops, something I thought I had a solid grasp on. Kind of banged my head against the wall unnecessarily.... definitely hoping to learn a lot in the code review tomorrow... 
