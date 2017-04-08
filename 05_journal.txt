@@ -1,0 +1,11 @@
+
+Week 1 in the books!
+
+I am happy. Super tired, but I feel good... I still struggled a little bit even on today's lab, but eventually got it done and correctly... On my way home I was thinking back to all the things I learned this week, and I feel somewhat accomplished! I felt like today for the first day I understood completely what was happening and pushed and pulled from branches into my master on both github and my local disk.... I look back at the things I struggled with on Tuesday and now those struggles a couple days ago are not an issue at all... I feel like I've legitimately grown, so that is a good feeling!
+
+Also, I discovered how incredibly use console.log() is when checking lines of code... even putting boolean values into it, it seemed to do a great job of breaking down my functions step by step...
+
+Also! I definitely need to go over "falsey" and "truthy" stuff... I feel like those are super important to know exactly what boolean values are returning based on whether its a string, NaN, null, number, etc.... those are super important and I know I need practice with the ones we went over in class...
+
+
+And of course I need to do some resubmits on my some of my labs, and as you can see... I have kind of run into some road blocks, and my code wasn't perfect. I most certainly want my code to run perfectly in the future and I am definitely going to have to re turn-in my day 2 and day three labs.... So for the week two out of four labs so far aren't perfect... Is that ok? Is that normal? Like should I be concerned...? Sometimes I feel like it's hard to gauge my own progress compared to others in the class, and I just want to make sure I am going at the right pace... ?
