@@ -1,0 +1,9 @@
+# May 15 #
+
+Day 06 journal
+
+Today I learned how to set up an if statement to design whether or not to retrieve data from local storage if it is there, or to retrieve the json data from a separate file... although the loadAll() function and initIndex() methods were already designed for us, it was still a challenge to come up with the steps and methodology to load the day first, stringify or parse, and then write to the html page. It seems straight forward but I'm very curious as to how else Json data can be designed...
+I felt like the lab went relatively smooth, but I didn't feel like we really achieved the full learning potential of the lab. We ran into issues and at times we just had no idea which part to include and where. We were given a massive hint concerning the initindex() method written on the page. We knew we had to do something like this method and tried writing that part on our own, but once we saw it in a separate js file it was the missing piece to our code.
+And I guess that is another thing I've learned, is check through all of the code! If we had just gone through what methods we already had when we started then it would have been much smoother sailing.
+
+At this point in the 301 class I just want to get better, faster, and more efficient. This is really vague, but I just want to be the best. I want to start reading docs like a pro and do some unique things on my own and have it quickly work. I also am a huge fan of dry code, and especially I am a huge proponent of becoming a better researcher. I feel like that is a super important part to software development, as I am excited and simply amazed at how much there is available out on the web. And I am excited to go research and implementing all of it! 
